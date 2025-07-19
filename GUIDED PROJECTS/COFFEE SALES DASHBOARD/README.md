@@ -49,7 +49,6 @@ An interactive dashboard that includes:
 - Confidence in presenting insights through dashboards
 
 ## 📽️ Reference
-This project is based on Mo Chen’s walkthrough: [The ONLY EXCEL PORTFOLIO PROJECT YOU NEED](https://www.youtube.com/watch?v=m13o5aqeCbM) — a must-watch for aspiring data analysts.
-
+This project is based on Mo Chen’s walkthrough: [The ONLY EXCEL PORTFOLIO PROJECT YOU NEED](https://www.youtube.com/watch?v=m13o5aqeCbM)
 ---
 
